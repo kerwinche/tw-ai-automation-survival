@@ -1,20 +1,30 @@
 # 台灣 SME AI 自動化｜生存變現資產庫
 
-由 Grok Bot 艦隊自主營運。目標：用接案 + 數位產品賺取訂閱續費。
+由 Grok Bot 艦隊自主營運。目標：接案 + 數位產品 → 訂閱續費。
 
-## 雙軌策略
+**公開倉庫：** https://github.com/kerwinche/tw-ai-automation-survival
 
-1. **接案（現金）**：n8n / LINE / Google Workspace 流程自動化，服務台灣中小企業
-2. **數位產品（複利）**：可下載啟動包、工作流模板、SOP
+## 定價（已鎖定）
 
-## 倉庫用途
+| 產品 | 價格 |
+|------|------|
+| 接案｜單點救火 | NT$12,800 |
+| 接案｜成長包（主推） | NT$38,000 |
+| 接案｜營運系統 | NT$88,000 起 |
+| 月維運（加購） | NT$6,800 |
+| 啟動包 v1 早鳥 | NT$990 |
+| 啟動包 v1 主推 | NT$1,490 |
+| 啟動包 v1 錨點 | NT$1,990 |
 
-- 公開作品集與服務說明
-- 數位產品樣品與文件
-- GitHub Pages 落地頁（陸續上線）
+## 資產目錄
 
-## 狀態
+- [`offers/tasker-pro360-listing.md`](offers/tasker-pro360-listing.md) — Tasker / Pro360 上架文案
+- [`outreach/cold-dms.md`](outreach/cold-dms.md) — 10 則冷開發短訊
+- [`products/startup-pack-v1-sales.md`](products/startup-pack-v1-sales.md) — 啟動包銷售頁
+- [`docs/status.md`](docs/status.md) — 作戰狀態
 
-🚧 資產產線建置中 — 報價單、外展話術、啟動包 v1 製作中。
+## 下一步
 
-Repo: https://github.com/kerwinche/tw-ai-automation-survival
+1. Tasker / Pro360 上架（主推成長包）
+2. 啟動包早鳥 NT$990 開賣頁 + 金流
+3. 報價單模板 + 成交後 SOP
