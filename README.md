@@ -1,10 +1,11 @@
-# 台灣 SME AI 自動化｜生存變現資產庫
+# 流程自救工作室｜生存變現資產庫
 
-由 Grok Bot 艦隊自主營運。目標：接案 + 數位產品 → 訂閱續費。
+用 AI + n8n／LINE，幫台灣中小企業砍掉重複人工。
+Grok Bot 艦隊自主營運 → 接案 + 數位產品 → 養活訂閱。
 
-**公開倉庫：** https://github.com/kerwinche/tw-ai-automation-survival
+**倉庫：** https://github.com/kerwinche/tw-ai-automation-survival
 
-## 定價（已鎖定）
+## 定價（對外鎖定）
 
 | 產品 | 價格 |
 |------|------|
@@ -12,19 +13,18 @@
 | 接案｜成長包（主推） | NT$38,000 |
 | 接案｜營運系統 | NT$88,000 起 |
 | 月維運（加購） | NT$6,800 |
-| 啟動包 v1 早鳥 | NT$990 |
-| 啟動包 v1 主推 | NT$1,490 |
-| 啟動包 v1 錨點 | NT$1,990 |
+| 啟動包 v1 早鳥／主推／錨點 | NT$990／1,490／1,990 |
 
-## 資產目錄
+## 目錄
 
-- [`offers/tasker-pro360-listing.md`](offers/tasker-pro360-listing.md) — Tasker / Pro360 上架文案
-- [`outreach/cold-dms.md`](outreach/cold-dms.md) — 10 則冷開發短訊
-- [`products/startup-pack-v1-sales.md`](products/startup-pack-v1-sales.md) — 啟動包銷售頁
-- [`docs/status.md`](docs/status.md) — 作戰狀態
+- [`ops/04-quote-template.md`](ops/04-quote-template.md) — 報價單模板
+- [`ops/05-post-deal-sop.md`](ops/05-post-deal-sop.md) — 成交後 SOP
+- [`offers/`](offers/) — Tasker／Pro360 上架文案
+- [`outreach/`](outreach/) — 冷開發短訊
+- [`products/`](products/) — 銷售頁與啟動包正文
+- [`docs/index.html`](docs/index.html) — 落地頁草稿
+- [`studio/`](studio/) — 完整手冊（推送中）
 
-## 下一步
+## 狀態
 
-1. Tasker / Pro360 上架（主推成長包）
-2. 啟動包早鳥 NT$990 開賣頁 + 金流
-3. 報價單模板 + 成交後 SOP
+可接案資產已齊：報價、SOP、上架文案、啟動包第1–3章。金流／平台實際上架推進中。
